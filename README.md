@@ -18,28 +18,28 @@ JSON Schema is a vocabulary that allows you to annotate and validate JSON docume
         "type": "string",
         "minLength": 1
       },
-      "Observer": {
+      "Regulator": {
         "type": "array",
         "items": {
           "type": "object",
           "properties": {
-            "ObserverStartDateTime": {
+            "RegulatorStartDateTime": {
               "type": "string",
               "minLength": 1
             },
-            "ObserverEndDateTime": {
+            "RegulatorEndDateTime": {
               "type": "string",
               "minLength": 1
             },
-            "ObserverTripId": {
+            "RegulatorId": {
               "type": "string",
               "minLength": 1
             }
           },
           "required": [
-            "ObserverStartDateTime",
-            "ObserverEndDateTime",
-            "ObserverTripId"
+            "RegulatorStartDateTime",
+            "RegulatorEndDateTime",
+            "RegulatorTripId"
           ]
         }
       }    
@@ -47,4 +47,5 @@ JSON Schema is a vocabulary that allows you to annotate and validate JSON docume
   }
 }  
 ```
+Write a script to validate a given JSON object against the above schema
 
