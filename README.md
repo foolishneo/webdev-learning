@@ -1,5 +1,8 @@
 ## Learn web programming
 
+### HTTP
+HTTP is the protocol (the language) that is used by web servers and browsers to communicate and exchange data. When the browser needs information, it will create HTTP requests and send them to a web server. When the web server receives a request, it will create a HTTP response and send it back to the browser.
+
 ### JSON Schema
 
 JSON Schema is a vocabulary that allows you to annotate and validate JSON documents.
