@@ -1,7 +1,13 @@
 ## Learn web programming
 
-### HTTP
+### HTTP (HyperText Transfer Protocol)
 HTTP is the protocol (the language) that is used by web servers and browsers to communicate and exchange data. When the browser needs information, it will create HTTP requests and send them to a web server. When the web server receives a request, it will create a HTTP response and send it back to the browser.
+
+### API (Application Programming Interface)
+APIs allows an application to get/modify/delete data of another application.
+
+### REST (REpresentational State Transfer)
+REST is an architectural style, or design pattern, for APIs. Think of it as a guideline to architect your APIs
 
 ### JSON Schema
 
