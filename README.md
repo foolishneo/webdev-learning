@@ -6,6 +6,8 @@ HTTP is the protocol (the language) that is used by web servers and browsers to 
 ### API (Application Programming Interface)
 APIs allows an application to get/modify/delete data of another application.
 
+![API](https://miro.medium.com/max/2825/1*OcmVkcsM5BWRHrg8GC17iw.png "API")
+
 ### REST (REpresentational State Transfer)
 REST is an architectural style, or design pattern, for APIs. Think of it as a guideline to architect your APIs
 
