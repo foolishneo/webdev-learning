@@ -69,3 +69,6 @@ JSON Schema is a vocabulary that allows you to annotate and validate JSON docume
 ```
 Write a script to validate a given JSON object against the above schema
 
+### Javascritp exercises
+1. https://jsbin.com/bociquv
+2. 
